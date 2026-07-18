@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @KugaonkarP
-- 👀 I’m interested in Problem-solving
-- 🌱 I’m currently learning Full stack development
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me prachikugaonkar59@gmail.com
+Hi 👋, I'm Prachi Kugaonkar
+A passionate software developer from a small city of India folded big dreams in her eyes (-.^)
+prachik
 
-<!---
-KugaonkarP/KugaonkarP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I'm currently working on Kubernetes, System Design and Optimization
+
+🌱 I'm currently learning Flutter, AWS
+
+💬 Ask me about Java, Spring Boot, Microservices, API
+
+📫 How to reach me prachikugaonkar59@gmail.com
+
+Connect with me:
+prachi kugaonkar
+
+Languages and Tools:
+java c spring boot spring mvc spring security aws azure kubernetes docker kafka rabbitmq mongodb mysql sql sonarqube git flutter postman intellij claude
+
+prachik
+
+  prachik
+
+prachik
